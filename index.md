@@ -2,4 +2,4 @@
 
 Grupo de desenvolvimento do whatsapp
 
-(Entrar)[whatsapp.com]
+[Entrar](whatsapp.com)
